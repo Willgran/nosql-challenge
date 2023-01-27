@@ -3,7 +3,7 @@
 
 Use NoSQL_setup_starter.ipynb for this section of the challenge.
 
--Import the data provided in the establishments.json file from your Terminal. Name the database uk_food and the collection establishments. Copy the text you used to *import your data from your Terminal to a markdown cell in your notebook.
+Import the data provided in the establishments.json file from your Terminal. Name the database uk_food and the collection establishments. Copy the text you used to import your data from your Terminal to a markdown cell in your notebook.
 
 Within your notebook, import the libraries you need: PyMongo and Pretty Print (pprint).
 
@@ -51,10 +51,10 @@ Display the first document in the results using pprint.
 
 Convert the result to a Pandas DataFrame, print the number of rows in the DataFrame, and display the first 10 rows.
 
-**Which establishments have a hygiene score equal to 20?
+**Which establishments have a hygiene score equal to 20?**
 
-**hich establishments in London have a RatingValue greater than or equal to 4?
+**hich establishments in London have a RatingValue greater than or equal to 4?**
 
-**What are the top 5 establishments with a RatingValue of '5', sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
+**What are the top 5 establishments with a RatingValue of '5', sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?**
 
-**How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
+**How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.**
